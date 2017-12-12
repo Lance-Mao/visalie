@@ -124,4 +124,8 @@
     <error-code>500</error-code>
     <location>/WEB-INF/view/errorpage/500.jsp</location>
   </error-page>
+
+  <welcome-file-list>
+    <welcome-file>/front/home/index.jsp</welcome-file>
+  </welcome-file-list>
 </web-app>

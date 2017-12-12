@@ -31,6 +31,7 @@
                 /getValidateCode = anon  <!--验证码-->
                 /js/** = anon
                 /images/** = anon
+                /front/** = anon
                 /styles/** = anon
                 /public/** = anon
                 /toLogin = anon   <!--登录页面的地址-->
