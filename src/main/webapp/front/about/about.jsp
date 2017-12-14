@@ -30,7 +30,7 @@
 	<!--header-->
 	<jsp:include page="../public/header.jsp"/>
 	<div class="crumbs">
-		<div class="centerBlock">您当前的位置：<a href="${baseurl}/web/home/index.jsp">首页 </a>  > <span>关于我们</span></div>
+		<div class="centerBlock">您当前的位置：<a href="${baseurl}/front/home/index.jsp">首页 </a>  > <span>关于我们</span></div>
 	</div>
 	<div class="comon_top">
 		<div class="top_title">

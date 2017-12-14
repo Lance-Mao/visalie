@@ -6,40 +6,40 @@
         <div class="zhu_c clearfix">
             <ul class="ul_1 clearfix">
                 <li>
-                    <a href="${baseurl}/web/public/case.jsp" class="a_tit">系统3D</a>
-                    <a href="${baseurl}/web/public/case.jsp">骨骼</a>
-                    <a href="${baseurl}/web/public/case.jsp">肌肉</a>
-                    <a href="${baseurl}/web/public/case.jsp">脏器</a>
-                    <a href="${baseurl}/web/public/case.jsp">循环</a>
-                    <a href="${baseurl}/web/public/case.jsp">神经</a>
-                    <a href="${baseurl}/web/public/case.jsp">其他</a>
+                    <a href="${baseurl}/front/public/case.jsp" class="a_tit">系统3D</a>
+                    <a href="${baseurl}/front/public/case.jsp">骨骼</a>
+                    <a href="${baseurl}/front/public/case.jsp">肌肉</a>
+                    <a href="${baseurl}/front/public/case.jsp">脏器</a>
+                    <a href="${baseurl}/front/public/case.jsp">循环</a>
+                    <a href="${baseurl}/front/public/case.jsp">神经</a>
+                    <a href="${baseurl}/front/public/case.jsp">其他</a>
                 </li>
                 <li>
-                    <a href="${baseurl}/web/public/case.jsp" class="a_tit">局部3D</a>
-                    <a href="${baseurl}/web/public/case.jsp">头颈部</a>
-                    <a href="${baseurl}/web/public/case.jsp">上肢</a>
-                    <a href="${baseurl}/web/public/case.jsp">下肢</a>
-                    <a href="${baseurl}/web/public/case.jsp">躯干</a>
+                    <a href="${baseurl}/front/public/case.jsp" class="a_tit">局部3D</a>
+                    <a href="${baseurl}/front/public/case.jsp">头颈部</a>
+                    <a href="${baseurl}/front/public/case.jsp">上肢</a>
+                    <a href="${baseurl}/front/public/case.jsp">下肢</a>
+                    <a href="${baseurl}/front/public/case.jsp">躯干</a>
 
                 </li>
                 <li>
-                    <a href="${baseurl}/web/public/case.jsp" class="a_tit">动画</a>
-                    <a href="${baseurl}/web/public/case.jsp">运动</a>
-                    <a href="${baseurl}/web/public/case.jsp">心脏</a>
+                    <a href="${baseurl}/front/public/case.jsp" class="a_tit">动画</a>
+                    <a href="${baseurl}/front/public/case.jsp">运动</a>
+                    <a href="${baseurl}/front/public/case.jsp">心脏</a>
 
                 </li>
                 <li>
-                    <a href="${baseurl}/web/public/case.jsp" class="a_tit">手绘分享</a>
-                    <a href="${baseurl}/web/public/case.jsp">手绘分享</a>
+                    <a href="${baseurl}/front/public/case.jsp" class="a_tit">手绘分享</a>
+                    <a href="${baseurl}/front/public/case.jsp">手绘分享</a>
                 </li>
                 <li>
-                    <a href="${baseurl}/web/public/case.jsp" class="a_tit">软件下载</a>
-                    <a href="${baseurl}/web/public/case.jsp">下载地址</a>
+                    <a href="${baseurl}/front/public/case.jsp" class="a_tit">软件下载</a>
+                    <a href="${baseurl}/front/public/case.jsp">下载地址</a>
                 </li>
                 <li>
-                    <a href="${baseurl}/web/public/case.jsp" class="a_tit">关于我们</a>
-                    <a href="${baseurl}/web/public/case.jsp">公司介绍</a>
-                    <a href="${baseurl}/web/public/case.jsp">产品介绍</a>
+                    <a href="${baseurl}/front/public/case.jsp" class="a_tit">关于我们</a>
+                    <a href="${baseurl}/front/public/case.jsp">公司介绍</a>
+                    <a href="${baseurl}/front/public/case.jsp">产品介绍</a>
                 </li>
             </ul>
             <div class="ul_2">

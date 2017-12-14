@@ -28,7 +28,7 @@
 <div>
     <!--header-->
 <jsp:include page="../public/header.jsp"/>
-
+    <div></div>
 
     <!--banner  start-->
     <section class="banner">
